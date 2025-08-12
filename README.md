@@ -1,5 +1,5 @@
 # Low-Cost-Windmill
-DIY 1 m diameter wind turbine built from recycled materials and low-cost components, producing 2.20-3.70V 0.33-2.08W DC output. Includes blade design, AC–DC converter circuitry, cost breakdown, and performance testing.
+DIY 1 m diameter wind turbine built from recycled materials and low-cost components, producing 2.20-3.70V 0.44-1.04W DC output. Includes blade design, AC–DC converter circuitry, cost breakdown, and performance testing.
 
 This project documents the design, construction, and testing of a small-scale wind turbine built during my summer holiday.
 
